@@ -21,7 +21,7 @@ class PaginatedListView extends StatelessWidget {
             itemBuilder: (context, index) {
               debugPrint('ListView.builder is building index $index');
               if (index >= model.commentsList.length) {
-                // Don't trigger if one async loading is already under way
+                // Don't fire another when another async is ongoing
                 if (!model.busy(commentsBusyKey)) {
                   model.loadMoreComments();
                 }
