@@ -1,16 +1,15 @@
-# flutter_list_pagination
+# Pagination in flutter using Stacked Architecture.
 
-A new Flutter project.
+[*Stacked*](https://pub.dev/packages/stacked) : MVVM inspired architecture in Flutter. It provides common functionalities required to build a large application in an understandable manner.
 
-## Getting Started
+[*Stacked Services*](https://pub.dev/packages/stacked_services) : A package that contains some default implementations of services required for a cleaner implementation of the Stacked Architecture.
 
-This project is a starting point for a Flutter application.
+[*Logger*](https://pub.dev/packages/logger) : Small, easy to use and extensible logger which prints beautiful logs.
 
-A few resources to get you started if this is your first Flutter project:
+Add this to your *dev_dependencies* in your pubspec.yaml file:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[*Build runner*](https://pub.dev/packages/build_runner) : A build system for Dart code generation and modular compilation.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[*Stacked generator*](https://pub.dev/packages/stacked_generator) : stacked Generator is a package dedicated to reduce the boilerplate required to setup a stacked application.
+
+![ezgif-7-1b06eb75e9](https://user-images.githubusercontent.com/48495111/147842478-876abbf3-c738-4fca-b69a-18b60a992ed7.gif)
