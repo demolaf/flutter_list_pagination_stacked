@@ -13,3 +13,5 @@ Add this to your *dev_dependencies* in your pubspec.yaml file:
 [*Stacked generator*](https://pub.dev/packages/stacked_generator) : stacked Generator is a package dedicated to reduce the boilerplate required to setup a stacked application.
 
 ![ezgif-7-1b06eb75e9](https://user-images.githubusercontent.com/48495111/147842478-876abbf3-c738-4fca-b69a-18b60a992ed7.gif)
+
+[Readable Tutorial on Hashnode](https://aob.hashnode.dev/implementing-paginationinfinite-scrolling-in-flutter-using-provider-pattern-stacked-architecture)
